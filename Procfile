@@ -1,1 +1,1 @@
-web: gunicorn pet_pals.app:app
+web: gunicorn belly_button_diversity-jw.app:app
